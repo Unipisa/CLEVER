@@ -1,5 +1,6 @@
 # CLEVER - Computational and Linguistic bEnchmarks for the study of VErb argument structuRe 
 
+## Project description
 The main goal of the CLEVER Project is to gather evidence on Italian argument structure from three different source of knowledge that are typically used in distinct linguistics subfields: human acceptability judgments, behavioral data, distributional representations.
 
 The main outcome of the project will consist of two types of resources that will be made publicy available: 
@@ -24,3 +25,10 @@ WP3. Creation of the Linguistic Dataset
 WP4. Computational modeling and linguistic analysis
 
 WP5. Project Management
+
+
+##Contents
+Repository contents description
+
+##Research outcomes
+
