@@ -1,3 +1,3 @@
 # Research outcomes
 
-published work (bib format)
+published works (bib format)
