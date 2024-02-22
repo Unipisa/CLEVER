@@ -16,19 +16,19 @@ Università Ca’ Foscari Venezia (UVE)
 
 The project consists of five work packages (WP) arranged into several activities.
 
-WP1. Corpus, linguistic analyses and dataset specification
+  WP1. Corpus, linguistic analyses and dataset specification
 
-WP2. Training of the Neural Language Model
+  WP2. Training of the Neural Language Model
 
-WP3. Creation of the Linguistic Dataset
+  WP3. Creation of the Linguistic Dataset
 
-WP4. Computational modeling and linguistic analysis
+  WP4. Computational modeling and linguistic analysis
 
-WP5. Project Management
+  WP5. Project Management
 
 
-##Contents
+## Contents
 Repository contents description
 
-##Research outcomes
-
+## Research outcomes
+Published works (bib format)
