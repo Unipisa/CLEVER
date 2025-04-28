@@ -28,13 +28,12 @@ The project consists of five work packages (WP) arranged into several activities
 
 
 ## Contents
-Repository contents description
+Trained models can be found at: https://huggingface.co/colinglab
+
 
 ## Research outcomes
-@article{suozzi2025bambi,
-  title={BAMBI: Developing Baby Language Models for Italian},
-  author={Suozzi, Alice and Capone, Luca and Lebani, Gianluca E and Lenci, Alessandro},
-  journal={arXiv preprint arXiv:2503.09481},
-  year={2025}
-}
+Capone L, A Suozzi, GE Lebani, A Lenci (2024), CliC-it 2024, CEUR WORKSHOP PROCEEDINGS.
+BaBIEs: A Benchmark for the Linguistic Evaluation of Italian Baby Language Models.
 
+Capone L, A Bondielli, A Lenci (2024), The 2nd BabyLM Challenge at the 28th CoNLL.
+ConcreteGPT: A Baby GPT-2 Based on Lexical Concreteness and Curriculum Learning.
