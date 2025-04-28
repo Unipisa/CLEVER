@@ -31,4 +31,10 @@ The project consists of five work packages (WP) arranged into several activities
 Repository contents description
 
 ## Research outcomes
-Published works (bib format)
+@article{suozzi2025bambi,
+  title={BAMBI: Developing Baby Language Models for Italian},
+  author={Suozzi, Alice and Capone, Luca and Lebani, Gianluca E and Lenci, Alessandro},
+  journal={arXiv preprint arXiv:2503.09481},
+  year={2025}
+}
+
