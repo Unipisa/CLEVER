@@ -28,9 +28,15 @@ The project consists of five work packages (WP) arranged into several activities
 
 
 ## Contents
+
+### Models
 Trained models can be found at: https://huggingface.co/colinglab
 
-Evaluation resources:
+### Bambi Dataset
+
+
+
+### Evaluation resources:
 
 *Clever Semantic Minimal Pairs* - This benchmark extends current research on the sensitivity to semantic violations in language models. Specifically, we adapted an existing minimal pair benchmark that targets knowledge about prototypical, unlikely, and impossible events (Kauf et al.,2023) to evaluate Italian Language Models. In turn, they were derived from previous cognitive and neurolinguistic studies by Fedorenko et al. (2020) and Ivanova et al. (2021), respectively. The datasets contain minimal pairs of sentences designed to assess semantic knowledge by manipulating sentence plausibility.
 
