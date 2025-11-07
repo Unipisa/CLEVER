@@ -42,6 +42,12 @@ Trained models can be found at: https://huggingface.co/colinglab
 
 
 ## Research outcomes
+Suozzi, A., Capone, L., Lebani, G. E., & Lenci, A. (2025). arXiv preprint arXiv:2503.09481.
+BAMBI: Developing Baby Language Models for Italian.
+
+Capone, L., Suozzi, A., Lebani, G. E., & Lenci, A. (2025).  In Proceedings of the Eleventh Italian Conference on Computational Linguistics (CLiC-it 2025) (pp. 1-12). Università di Cagliari.
+BAMBI Goes to School: Evaluating Italian BabyLMs with Invalsi-ITA.
+
 Capone L, A Suozzi, GE Lebani, A Lenci (2024), CliC-it 2024, CEUR WORKSHOP PROCEEDINGS.
 BaBIEs: A Benchmark for the Linguistic Evaluation of Italian Baby Language Models.
 
