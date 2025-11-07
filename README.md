@@ -41,7 +41,7 @@ It is organized into **four developmental tiers**, corresponding to different ph
 | ------ | ----------------- | -------------- | --------------------------------------------- |
 | Tier 1 |              0–6  |          ~26M  | Early childhood and preschool exposure        |
 | Tier 2 |             6–12  |          ~31M  | Primary school and literacy development       |
-| Tier 3 |            12–18  |          ~32M  | Adolescent linguistic and cognitive expansion |
+| Tier 3 |            12–18  |          ~32M  | Adolescent linguistic expansion               |
 | Tier 4 |            18–24  |          ~31M  | Young adult and advanced language exposure    |
 
 Each tier reflects age-appropriate linguistic input, curated from authentic Italian sources for ecological validity and developmental plausibility.
