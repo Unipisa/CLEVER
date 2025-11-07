@@ -27,21 +27,82 @@ The project consists of five work packages (WP) arranged into several activities
   WP5. Project Management
 
 
-## Contents
-
-### Models
+## Models
 Trained models can be found at: https://huggingface.co/colinglab
 
-### Bambi Dataset
+## 🦌 **BAMBI Dataset**
 
+### **Dataset Summary**
 
+The **BAMBI Dataset** is an **Italian-language corpus** designed to provide **ecologically valid and cognitively plausible linguistic input** for **BabyLM-style language model training**.
+It is organized into **four developmental tiers**, corresponding to different phases of linguistic growth in childhood and adolescence:
 
-### Evaluation resources:
+| Tier   | Age Range (years) | Approx. Tokens | Description                                   |
+| ------ | ----------------- | -------------- | --------------------------------------------- |
+| Tier 1 |              0–6  |          ~26M  | Early childhood and preschool exposure        |
+| Tier 2 |             6–12  |          ~31M  | Primary school and literacy development       |
+| Tier 3 |            12–18  |          ~32M  | Adolescent linguistic and cognitive expansion |
+| Tier 4 |            18–24  |          ~31M  | Young adult and advanced language exposure    |
+
+Each tier reflects age-appropriate linguistic input, curated from authentic Italian sources for ecological validity and developmental plausibility.
+
+---
+
+### **Data Composition**
+
+The corpus integrates **transcriptions of oral materials** that mirror the linguistic environment of Italian speakers from early childhood through young adulthood.
+
+### **Source Types**
+
+* **Entertainment:** audiobooks, TV shows, podcasts, and films
+* **Educational:** textbooks, didactic materials, and learning media
+* **News and informational:** simplified news, magazines, and public media
+* **Caregiver and spontaneous speech:** naturalistic speech and conversational transcriptions
+
+Each document includes metadata indicating:
+
+* **Source type**
+* **Data origin** 
+* **Intended age tier**
+
+---
+
+### **Linguistic Characteristics**
+
+* **Language:** Italian 🇮🇹
+* **Register:** naturalistic, age-appropriate, and cognitively plausible speech
+* **Total tokens:** ~120 million
+* **Format:** plain text (`.csv`) with detailed metadata
+
+---
+
+### **Intended Use**
+
+The BAMBI dataset is intended for:
+
+* Training **BabyLM-style** or other small-scale developmental language models in Italian
+* **Research on cognitive and linguistic development**
+* **Curriculum learning** and **ecological modeling** of language acquisition
+
+Not intended for commercial NLP applications.
+
+---
+
+### **Ethical Considerations**
+TBD
+
+### **Citation**
+TBD
+
+## Evaluation resources:
 
 *Clever Semantic Minimal Pairs* - This benchmark extends current research on the sensitivity to semantic violations in language models. Specifically, we adapted an existing minimal pair benchmark that targets knowledge about prototypical, unlikely, and impossible events (Kauf et al.,2023) to evaluate Italian Language Models. In turn, they were derived from previous cognitive and neurolinguistic studies by Fedorenko et al. (2020) and Ivanova et al. (2021), respectively. The datasets contain minimal pairs of sentences designed to assess semantic knowledge by manipulating sentence plausibility.
 
 
 ## Research outcomes
+Capone, L.,  Bondielli, A., and Lenci, A. Proceedings of the First BabyLM Workshop. 2025.
+CLASS-IT: Conversational and Lecture-Aligned Small-Scale Instruction Tuning for BabyLMs.
+
 Suozzi, A., Capone, L., Lebani, G. E., & Lenci, A. (2025). arXiv preprint arXiv:2503.09481.
 BAMBI: Developing Baby Language Models for Italian.
 
